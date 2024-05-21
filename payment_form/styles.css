@@ -1,0 +1,11 @@
+body{
+    margin: 0;
+}
+
+.bg-special{
+    background-color: pink;
+}
+
+.bg-head-foot{
+    background-color: rgb(205, 202, 202);
+}
